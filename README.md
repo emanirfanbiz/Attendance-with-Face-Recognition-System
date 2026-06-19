@@ -126,7 +126,7 @@ Performance metrics:
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Face-Recognition-System.git
+git clone https://github.com/emanirfanbiz/Attendance-with-Face-Recognition-System
 ```
 
 ---
@@ -227,8 +227,8 @@ BS Computer Science
 
 Machine Learning Enthusiast | Web Developer | Computer Vision
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/emanirfanbiz
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: www.linkedin.com/in/eman-irfan-2b5657327
 
 ---
